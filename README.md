@@ -1,13 +1,13 @@
 # PHP Project Explorer
 
-🇧🇷 Para simplificar minha vida, criei este script para realizar as seguintes tarefas:
+🇧🇷 Para simplificar minha vida de desenvolvedor, criei este script para realizar as seguintes tarefas:
 
 - Iniciar um servidor PHP
 - Abrir o navegador padrão diretamente no localhost
 - Listar as pastas dos projetos PHP
 - Abrir os projetos com apenas um clique
 
-🇺🇸 To simplify my own life, I've created this script to perform the following tasks:
+🇺🇸 To simplify my own program developer's life, I've created this script to perform the following tasks:
 
 - Start a PHP server
 - Open the default browser directly on localhost
@@ -17,6 +17,10 @@
 >[!NOTE]
 > 🇧🇷 Este projeto foi desenvolvido para Windows
 > 🇺🇸 This project was developed for Windows
+
+>[!TIP]
+> 🇧🇷 Use essa solução para desenvolvimento
+> 🇺🇸 Use this solution for development
 
 # Clone & Run
 
