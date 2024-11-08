@@ -18,7 +18,7 @@
 > 🇧🇷 Este projeto foi desenvolvido para Windows
 > 🇺🇸 This project was developed for Windows
 
-# Clone
+# Clone & Run
 
 🇧🇷 Inicie um terminal `Bash` ou outro de sua preferência, na raíz de diretórios dos seus projetos PHP, executando o comando:
 
