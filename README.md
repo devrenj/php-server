@@ -16,10 +16,12 @@
 
 >[!NOTE]
 > 🇧🇷 Este projeto foi desenvolvido para Windows
+> 
 > 🇺🇸 This project was developed for Windows
 
 >[!TIP]
 > 🇧🇷 Use essa solução para desenvolvimento
+> 
 > 🇺🇸 Use this solution for development
 
 # Clone & Run
@@ -38,6 +40,8 @@
 🇧🇷 O código é aberto para análise e cópias, te possibilitando verificar sua simplicidade e segurança
 
 🇺🇸 The code is open for analysis and copying, allowing you to verify its simplicity and security.
+
+# 
 
 # License
 
