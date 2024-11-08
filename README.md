@@ -33,6 +33,7 @@
 `$ git clone git@github.com:devrenj/php-explorer.git`
 
 🇧🇷 E abra o arquivo `PHPServer.bat`
+
 🇺🇸 And open the file `PHPServer.bat`
 
 # Open-source
